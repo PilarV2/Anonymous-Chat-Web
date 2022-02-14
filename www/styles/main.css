@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    background-color: #ff8000;
+    background-color: #5F9EA0;
     font-family: sans-serif;
 }
 .wrapper {
@@ -8,7 +8,7 @@ html, body {
     height: 640px;
     padding: 5px;
     margin: 0 auto;
-    background-color: #fff;
+    background-color: #5F9EA0;
 }
 #loginWrapper {
     position: fixed;
@@ -40,7 +40,7 @@ html, body {
 }
 #historyMsg {
     height: 400px;
-    background-color: #ff8000;
+    background-color: #000000;
     overflow: auto;
     padding: 2px;
 }
@@ -48,7 +48,7 @@ html, body {
     max-width: 60%;
 }
 .timespan {
-    color: #ddd;
+    color: #fff;
 }
 .items {
     height: 30px;
