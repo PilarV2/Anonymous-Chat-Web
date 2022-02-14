@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    background-color: #128C7E;
+    background-color: #FF7F00;
     font-family: sans-serif;
 }
 .wrapper {
@@ -8,7 +8,7 @@ html, body {
     height: 640px;
     padding: 5px;
     margin: 0 auto;
-    background-color: #128C7E;
+    background-color: #FF7F00;
 }
 #loginWrapper {
     position: fixed;
