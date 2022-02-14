@@ -40,12 +40,12 @@ html, body {
 }
 #historyMsg {
     height: 400px;
-    background-color: #000000;
+    background-color: #808080;
     overflow: auto;
     padding: 2px;
 }
 #historyMsg img {
-    max-width: 60%;
+    max-width: 50%;
 }
 .timespan {
     color: #fff;
