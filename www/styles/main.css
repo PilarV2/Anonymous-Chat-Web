@@ -40,7 +40,7 @@ html, body {
 }
 #historyMsg {
     height: 400px;
-    background-color: #808080;
+    background-color: #DCDCDC;
     overflow: auto;
     padding: 2px;
 }
