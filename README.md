@@ -1,2 +1,7 @@
 # Anonymous-Chat
- Random chat join di sini :')
+ Real time chat module
+
+### Hi there 👋
+
+[![BOTCAHX GitHub stats](https://github-readme-stats.vercel.app/api?username=BOTCAHX)](https://github.com/BOTCAHX/github-readme-stats)
+
